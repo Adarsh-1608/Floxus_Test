@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Floxus</string>
+    <string name="pictures_id">pictures</string>
+    <string name="visit_college_website_id">Visit College Website</string>
+    <string name="whatsapp_id">whatsapp</string>
+    <string name="img1_id">img1</string>
+    <string name="coding_pandas_id">coding pandas</string>
+    <string name="college_id">college</string>
+    <string name="school_id">school</string>
+    <string name="visit_school_website_id">Visit School Website</string>
+</resources>
